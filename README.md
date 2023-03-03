@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there this is Yukinoshita’s Github page.👋
+
+<p align="center">
+  <a href="https://github.com/FujiwaraChika0303"><img src="https://github-readme-stats.vercel.app/api?username=FujiwaraChika0303&hide_border=true&show_icons=true" alt="Yukinoshita's github stats"></a>
+</p>
 
 <!--
 **FujiwaraChika0303/FujiwaraChika0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
