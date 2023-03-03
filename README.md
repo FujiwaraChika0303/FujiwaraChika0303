@@ -4,6 +4,12 @@
   <a href="https://github.com/FujiwaraChika0303"><img src="https://github-readme-stats.vercel.app/api?username=FujiwaraChika0303&hide_border=true&show_icons=true" alt="Yukinoshita's github stats"></a>
 </p>
 
+<p align="center">
+  <strong><a href="https://www.yangdianfeng07.tech">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/yangdianfeng07">Twitter</a></strong> |
+  <strong><a href="https://space.bilibili.com/305512643">Bilibili</a></strong> |
+</p>
+
 <!--
 **FujiwaraChika0303/FujiwaraChika0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
